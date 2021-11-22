@@ -1,5 +1,6 @@
 ##Leetcode Algorithm's solved tasks
 
+3 Longest Substring Without Repeating Characters
 
 19 Remove Nth Node From End of List
 
@@ -21,6 +22,7 @@
 
 557 Reverse Words in a String III
 
+567 Permutation in String
 
 704 Binary Search
 
