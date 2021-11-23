@@ -24,8 +24,11 @@
 
 567 Permutation in String
 
+695 Max Area of Island
+
 704 Binary Search
 
+733 Flood Fill
 
 876 Middle of the Linked List
 
