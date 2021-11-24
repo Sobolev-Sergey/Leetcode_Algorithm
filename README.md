@@ -6,6 +6,7 @@
 
 35 Search Insert Position
 
+116 Populating Next Right Pointers in Each Node
 
 167 Two Sum II - Input Array Is Sorted
 
@@ -24,6 +25,8 @@
 
 567 Permutation in String
 
+617 Merge Two Binary Trees
+ 
 695 Max Area of Island
 
 704 Binary Search
