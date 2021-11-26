@@ -4,6 +4,8 @@
 
 19 Remove Nth Node From End of List
 
+21 Merge Two Sorted Lists
+
 35 Search Insert Position
 
 116 Populating Next Right Pointers in Each Node
@@ -12,17 +14,17 @@
 
 189 Rotate Array
 
+206 Reverse Linked List
 
 278 First Bad Version
 
 283 Move Zeroes
 
-
 344 Reverse String
 
 542 01 Matrix
 
-543. 557 Reverse Words in a String III
+557 Reverse Words in a String III
 
 567 Permutation in String
 
