@@ -8,6 +8,10 @@
 
 35 Search Insert Position
 
+46 Permutations
+
+77 Combinations
+
 116 Populating Next Right Pointers in Each Node
 
 167 Two Sum II - Input Array Is Sorted
@@ -35,6 +39,8 @@
 704 Binary Search
 
 733 Flood Fill
+
+784 Letter Case Permutation
 
 876 Middle of the Linked List
 
