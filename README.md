@@ -10,13 +10,19 @@
 
 46 Permutations
 
+70 Climbing Stairs
+
 77 Combinations
 
 116 Populating Next Right Pointers in Each Node
 
+120 Triangle
+
 167 Two Sum II - Input Array Is Sorted
 
 189 Rotate Array
+
+198 House Robber
 
 206 Reverse Linked List
 
