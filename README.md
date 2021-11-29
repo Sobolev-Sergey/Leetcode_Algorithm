@@ -22,9 +22,13 @@
 
 189 Rotate Array
 
+191 Number of 1 Bits
+
 198 House Robber
 
 206 Reverse Linked List
+
+231 Power of Two
 
 278 First Bad Version
 
