@@ -18,9 +18,13 @@
 
 120 Triangle
 
+136 Single Number
+
 167 Two Sum II - Input Array Is Sorted
 
 189 Rotate Array
+
+190 Reverse Bits
 
 191 Number of 1 Bits
 
