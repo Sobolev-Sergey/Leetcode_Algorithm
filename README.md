@@ -6,6 +6,10 @@
 
 3 Longest Substring Without Repeating Characters
 
+9 Palindrome Number
+
+13 Roman to Integer
+
 19 Remove Nth Node From End of List
 
 21 Merge Two Sorted Lists
